@@ -1,6 +1,6 @@
 # Site
 title: blogs
-description: Stylish, Two-Column Jekyll Theme
+description: ai ni you 老婆 
 url: https://wjlzk1.github.io/wjlzk1.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -20,7 +20,7 @@ kramdown:
   footnote_nr:      1
   entity_output:    as_char
   toc_levels:       1..6
-  enable_coderay:   false
+  enable_coderay:   false  
 sass:
   sass_dir:         assets/_sass
   style:            compressed
@@ -64,4 +64,4 @@ gems:
 include: [_pages]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-merlot
