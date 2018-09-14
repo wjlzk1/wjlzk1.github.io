@@ -1,6 +1,6 @@
 # Site
 title: blogs
-description: ai ni you 老婆 
+description: ********
 url: https://wjlzk1.github.io/wjlzk1.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -31,10 +31,10 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            
+#twitter:            
 #facebook:           username
-github:             wjlzk1
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#github:             wjlzk1
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           
 
 # Gems
 gems:
